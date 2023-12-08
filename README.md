@@ -26,3 +26,4 @@ https://www.maketecheasier.com/restrict-administrative-tools-access-windows/
 rando
 https://github.com/Cqctxs/Cyberpatriot-Windows/blame/main/script.ps1
 
+https://github.com/Klocman/Bulk-Crap-Uninstaller
