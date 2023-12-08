@@ -3,8 +3,20 @@ Get-ChildItem -Path "C:\Users" -Exclude "$env:UserName" | Get-ChildItem -Force -
 
 https://github.com/svetlyobg/Hardening
 
+#TARD
+
+remove all softwaer 32 and 64 but
+
 Remove all task 
 C:\Windows\System32\Tasks
 REG
 HKLM\Software\Microsoft\Windows NT\CurrentVersion\Schedule\Taskcache\Tasks
 HKLM\Software\Microsoft\Windows NT\CurrentVersion\Schedule\Taskcache\Tree
+
+clear GP
+
+Settings reset
+https://www.tenforums.com/tutorials/165667-how-reset-settings-app-windows-10-a.html#option2
+
+
+
