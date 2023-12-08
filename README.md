@@ -27,3 +27,5 @@ rando
 https://github.com/Cqctxs/Cyberpatriot-Windows/blame/main/script.ps1
 
 https://github.com/Klocman/Bulk-Crap-Uninstaller
+
+https://public.cyber.mil/stigs/gpo/
