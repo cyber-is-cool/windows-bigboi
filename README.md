@@ -18,5 +18,5 @@ clear GP
 Settings reset
 https://www.tenforums.com/tutorials/165667-how-reset-settings-app-windows-10-a.html#option2
 
-
-
+rando
+https://github.com/Cqctxs/Cyberpatriot-Windows/blame/main/script.ps1
