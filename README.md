@@ -20,6 +20,9 @@ https://www.tenforums.com/tutorials/165667-how-reset-settings-app-windows-10-a.h
 DIAble all task
 https://support.microsoft.com/en-us/topic/how-to-perform-a-clean-boot-in-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd#:~:text=the%20computer%20unusable.-,On%20the%20Services%20tab%20of%20System%20Configuration%2C%20select%20Hide%20all,Select%20Apply.
 
+reomve acces to admin tools to users
+https://www.maketecheasier.com/restrict-administrative-tools-access-windows/
+
 rando
 https://github.com/Cqctxs/Cyberpatriot-Windows/blame/main/script.ps1
 
