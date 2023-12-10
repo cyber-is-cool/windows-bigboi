@@ -4,36 +4,4 @@ Get-ChildItem -Path "C:\Users" -Exclude "$env:UserName" | Get-ChildItem -Force -
 Get-Process | Where-Object {$_.WorkingSet -gt 20000000}
 
 
-Settings reset
-https://www.tenforums.com/tutorials/165667-how-reset-settings-app-windows-10-a.html#option2
-DIAble all task
-https://support.microsoft.com/en-us/topic/how-to-perform-a-clean-boot-in-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd#:~:text=the%20computer%20unusable.-,On%20the%20Services%20tab%20of%20System%20Configuration%2C%20select%20Hide%20all,Select%20Apply.
-
-reomve acces to admin tools to users
-https://www.maketecheasier.com/restrict-administrative-tools-access-windows/
-
-rando
-https://github.com/Cqctxs/Cyberpatriot-Windows/blame/main/script.ps1
-
-https://github.com/Klocman/Bulk-Crap-Uninstaller
-
 https://public.cyber.mil/stigs/gpo/
-
-
-
-
-
-
-
-
-#TARD
-
-remove all softwaer 32 and 64 but
-
-Remove all task 
-C:\Windows\System32\Tasks
-REG
-HKLM\Software\Microsoft\Windows NT\CurrentVersion\Schedule\Taskcache\Tasks
-HKLM\Software\Microsoft\Windows NT\CurrentVersion\Schedule\Taskcache\Tree
-
-clear GP
