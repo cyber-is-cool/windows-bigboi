@@ -1,1 +1,2 @@
 
+/tools/LGPO.exe /g
